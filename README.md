@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lserra-engdb
+- 👋 Hi, I’m Laercio Serra (@lserra-engdb)
 - 👀 I’m interested in data engineering 
 - 🌱 I’m currently learning Go Language
 - 💞️ I’m looking to collaborate on projects involving big data, cloud computing (a ws or google) and data platform as a service
